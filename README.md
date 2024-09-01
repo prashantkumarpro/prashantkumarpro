@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prashant Kumar
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning react.js
 
 
 <!---
