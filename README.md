@@ -11,7 +11,7 @@ I'm a passionate Frontend Developer with a strong foundation in building respons
 - 👯 I’m looking to collaborate on open source projects related to web development.
 - 🤔 I’m looking for help with integrating backend services with frontend applications.
 - 💬 Ask me about HTML, CSS, JavaScript, React, and Tailwind CSS.
-- 📫 How to reach me: [your-email@example.com]
+- 📫 How to reach me: [your-dev.prashant.kumaar.com]
 - ⚡ Fun fact: I love solving coding challenges and participating in hackathons.
 
 ## Skills
@@ -40,6 +40,6 @@ I'm a passionate Frontend Developer with a strong foundation in building respons
 
 ## Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/prashant-web-developer/))
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-dev.prashant.kumaar.com)
