@@ -1,6 +1,6 @@
 # Hi there, I'm Prashant Kumar! 👋
 
-![Profile Views]([https://komarev.com/ghpvc/?username=prashantkumarpro])
+![Profile Views](https://komarev.com/ghpvc/?username=prashantkumarpro&color=brightgreen)
 
 ## About Me
 
