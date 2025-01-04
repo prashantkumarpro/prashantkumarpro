@@ -7,7 +7,7 @@
 I'm a passionate Frontend Developer with a strong foundation in building responsive and user-friendly web applications. I love working with modern web technologies and continuously learning new skills to enhance my development toolkit.
 
 - 🔭 I’m currently working on building interactive web applications with React and Tailwind CSS.
-- 🌱 I’m currently learning advanced JavaScript concepts and exploring backend development.
+- 🌱 I’m currently learning advanced state management tools Redux.
 - 👯 I’m looking to collaborate on open source projects related to web development.
 - 🤔 I’m looking for help with integrating backend services with frontend applications.
 - 💬 Ask me about HTML, CSS, JavaScript, React, and Tailwind CSS.
