@@ -7,7 +7,6 @@
 I'm a passionate Frontend Developer with a strong foundation in building responsive and user-friendly web applications. I love working with modern web technologies and continuously learning new skills to enhance my development toolkit.
 
 - 🔭 I’m currently working on building interactive web applications with React and Tailwind CSS.
-- 🌱 I’m currently learning advanced state management tools Redux.
 - 👯 I’m looking to collaborate on open source projects related to web development.
 - 🤔 I’m looking for help with integrating backend services with frontend applications.
 - 💬 Ask me about HTML, CSS, JavaScript, React, and Tailwind CSS.
@@ -24,6 +23,10 @@ I'm a passionate Frontend Developer with a strong foundation in building respons
 ### Frameworks and Libraries
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+- ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-FF3E00?style=for-the-badge&logo=redux&logoColor=white)
+
+
 
 ### Tools and Platforms
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
