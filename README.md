@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate Frontend Developer with a strong foundation in building responsive and user-friendly web applications. I love working with modern web technologies and continuously learning new skills to enhance my development toolkit.
+I'm a passionate Frontend Developer with a strong foundation in building responsive and user-friendly web applications. I love working with modern web technologies and continuously learning new skills to enhance my development toolkit. Currently, I’m also expanding my knowledge in Backend Development with Node.js to become a full-stack developer.
 
 - 🔭 I’m currently working on building interactive web applications with React and Tailwind CSS.
 - 👯 I’m looking to collaborate on open source projects related to web development.
