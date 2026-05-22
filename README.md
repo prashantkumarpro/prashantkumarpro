@@ -53,6 +53,24 @@ Currently, I'm building full-stack applications and cinematic frontend experienc
 
 ## 🌟 Featured Projects
 
+### 🎓 Max Public School
+
+A real-world full-stack school management platform with:
+
+- Student management
+- Report cards
+- Attendance system
+- Admin dashboard
+- Responsive UI
+
+#### 🛠️ Tech Stack
+
+React • TypeScript • Tailwind CSS • Node.js • Express • MongoDB
+
+🔗 Live: https://maxpublicschool.site/
+
+---
+
 ### 🌌 PKBeyond — Cinematic Anime Developer Portfolio
 
 A futuristic anime-inspired cinematic developer portfolio focused on storytelling, immersive UI, smooth animations, and emotional visual experiences.
@@ -77,24 +95,6 @@ React • TypeScript • Tailwind CSS • GSAP • Framer Motion • Three.js
 
 ---
 
-### 🎓 Max Public School
-
-A real-world full-stack school management platform with:
-
-- Student management
-- Report cards
-- Attendance system
-- Admin dashboard
-- Responsive UI
-
-#### 🛠️ Tech Stack
-
-React • TypeScript • Tailwind CSS • Node.js • Express • MongoDB
-
-🔗 Live: https://maxpublicschool.site/
-
----
-
 ### 💈 New Look Gents Parlour
 
 A real client project built for a barber shop business with:
@@ -106,16 +106,24 @@ A real client project built for a barber shop business with:
 
 #### 🛠️ Tech Stack
 
-React • Tailwind CSS • Modern UI Design
+React • TypeScript • Tailwind CSS • Modern UI Design
+
+🔗 Live Demo: https://new-look-gents-parlour.programmerkrprashant.workers.dev/
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantkumarpro&show_icons=true&theme=tokyonight" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=prashantkumarpro&show_icons=true&theme=radical&hide_border=true" 
+    height="180"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkumarpro&layout=compact&theme=tokyonight" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkumarpro&layout=compact&theme=radical&hide_border=true" 
+    height="180"
+  />
 </p>
 
 ---
