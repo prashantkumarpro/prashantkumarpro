@@ -19,10 +19,10 @@ Currently, I'm building full-stack applications and cinematic frontend experienc
 ### 💼 What I’m Doing
 
 - Building real-world full-stack applications
-- Creating cinematic frontend experiences
 - Learning advanced React & TypeScript patterns
-- Exploring animations, performance optimization, and scalable architecture
 - Improving backend development and system design skills
+- Creating cinematic frontend experiences
+- Exploring animations, performance optimization, and scalable architecture
 - Growing as a software engineer every day
 
 ---
@@ -116,12 +116,7 @@ React • TypeScript • Tailwind CSS • Modern UI Design
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=prashantkumarpro&show_icons=true&theme=radical&hide_border=true" 
-    height="180"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkumarpro&layout=compact&theme=radical&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkumarpro&theme=radical&hide_border=true" 
     height="180"
   />
 </p>
