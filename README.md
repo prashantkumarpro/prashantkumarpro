@@ -1,6 +1,6 @@
 # Hey, I'm Prashant Kumar 👋
 
-### Frontend Developer • Cinematic UI Builder • Full Stack Learner
+### Full Stack Developer 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prashantkumarpro&label=Profile%20Views&color=7c3aed&style=flat" alt="profile views" />
