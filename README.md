@@ -67,7 +67,7 @@ A real-world full-stack school management platform with:
 
 React • TypeScript • Tailwind CSS • Node.js • Express • MongoDB
 
-🔗 Live: https://maxpublicschool.site/
+🔗 Live: https://mps-mohanpur.vercel.app/
 
 ---
 
