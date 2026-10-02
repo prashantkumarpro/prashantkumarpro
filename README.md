@@ -1,13 +1,4 @@
-Absolutely. Based on your current goals — **getting hired, attracting freelance/client work, building SaaS/products, and establishing yourself as a serious Full Stack Developer/Product Builder** — I would move away from a generic “tech stack + stats” README.
-
-Your GitHub README should quickly answer:
-
-**Who are you → What do you build → What are you building now → Proof through projects → How to contact you.**
-
-Here is the version I would use:
-
-````md
-# Hey, I'm Prashant Kumar 👋
+# Hey, I'm Prashant Kumar
 
 ### Full Stack Developer & Product Builder
 
@@ -245,8 +236,7 @@ If you're building something interesting, feel free to reach out.
 
 ---
 
-### Building real products. Learning continuously. Shipping consistently. 🚀
+### Building real products. Learning continuously. Shipping consistently. 
 
-```
 
 
