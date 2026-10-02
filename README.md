@@ -2,9 +2,9 @@
 
 ### Full Stack Developer & Product Builder
 
-I build web products, SaaS applications, and business software — from idea to deployment.
+I build **web products, SaaS applications, and business software** — from idea to deployment.
 
-I work across the frontend and backend, turning real-world requirements into clean, scalable, and practical products.
+I work across frontend and backend to turn real-world requirements into products that are **clean, scalable, practical, and built to ship.**
 
 [Portfolio](https://www.pkdev.pro/) · [LinkedIn](https://www.linkedin.com/in/prashant-web-developer/) · [X](https://x.com/Dev_Prashant_K) · [Email](mailto:dev.prashant.kumaar@gmail.com)
 
@@ -12,21 +12,58 @@ I work across the frontend and backend, turning real-world requirements into cle
 
 ## What I Build
 
-- Web products
-- SaaS applications
-- Business software
-- Full-stack applications
-- Admin dashboards
-- REST APIs
-- Multi-tenant systems
-- AI & automation
+**Web Products**  
+Modern web applications designed around real users and real requirements.
+
+**SaaS & Business Software**  
+Products that solve workflows, manage data, and simplify business operations.
+
+**Full-Stack Systems**  
+Frontend interfaces, APIs, authentication, databases, dashboards, and cloud infrastructure working together.
+
+**AI & Automation**  
+Exploring how AI can make software more useful, efficient, and intelligent.
 
 ---
 
-## Stack
+## Selected Work
+
+### CloudSpaceGo
+
+A cloud storage product built from the ground up, with secure file management, authentication, folder organization, pagination, and cloud-based storage.
+
+`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Cloudflare R2`
+
+---
+
+### Max Public School
+
+A real-world school management platform designed to simplify administrative workflows and bring student management into one system.
+
+`React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MongoDB`
+
+---
+
+### PKBeyond
+
+An interactive developer portfolio built around storytelling, motion, and immersive frontend experiences.
+
+`React` `TypeScript` `Tailwind CSS` `GSAP`
+
+---
+
+### New Look Gents Parlour
+
+A real client website focused on helping a local business establish a modern online presence.
+
+`React` `TypeScript` `Tailwind CSS`
+
+---
+
+## Tech
 
 **Frontend**  
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
+JavaScript · TypeScript · React · Next.js · Tailwind CSS
 
 **Backend**  
 Node.js · Express · MongoDB · REST APIs
@@ -36,49 +73,15 @@ Git · GitHub · Vercel · Cloudflare · MongoDB Atlas
 
 ---
 
-## Selected Work
-
-### CloudSpaceGo
-
-A full-stack cloud storage product built for managing files through a simple web interface.
-
-`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Cloudflare R2`
-
----
-
-### Max Public School
-
-A real-world school management platform covering administrative workflows, students, attendance, report cards, and dashboards.
-
-`React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MongoDB`
-
----
-
-### PKBeyond
-
-An interactive developer portfolio focused on immersive storytelling and modern frontend experiences.
-
-`React` `TypeScript` `Tailwind CSS` `GSAP`
-
----
-
-### New Look Gents Parlour
-
-A real client website designed for a local business with business-focused integrations and responsive UX.
-
-`React` `TypeScript` `Tailwind CSS`
-
----
-
 ## Currently
 
-Building and improving real-world products while deepening my skills in:
+I'm building and improving real-world products while going deeper into:
 
-**Full-stack development · System design · Cloud infrastructure · Performance · AI · Automation**
+**Full-Stack Development · System Design · Cloud Infrastructure · Performance · AI · Automation**
 
 ---
 
-## GitHub
+## GitHub Activity
 
 <p align="center">
   <img
@@ -93,6 +96,6 @@ Building and improving real-world products while deepening my skills in:
 
 ---
 
-Building software that solves real problems.
+> Building software that solves real problems.
 
 **Idea → Product → Deployment → Improvement**
