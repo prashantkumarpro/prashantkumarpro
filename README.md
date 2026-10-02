@@ -4,7 +4,7 @@
 
 I build **web products, SaaS applications, and business software** — from idea to deployment.
 
-I work across frontend and backend to turn real-world requirements into products that are **clean, scalable, practical, and built to ship.**
+I work across frontend and backend to turn real-world requirements into products that are **clean, scalable, practical, and ready for real users.**
 
 [Portfolio](https://www.pkdev.pro/) · [LinkedIn](https://www.linkedin.com/in/prashant-web-developer/) · [X](https://x.com/Dev_Prashant_K) · [Email](mailto:dev.prashant.kumaar@gmail.com)
 
@@ -13,16 +13,16 @@ I work across frontend and backend to turn real-world requirements into products
 ## What I Build
 
 **Web Products**  
-Modern web applications designed around real users and real requirements.
+Modern applications designed around real users and real requirements.
 
 **SaaS & Business Software**  
-Products that solve workflows, manage data, and simplify business operations.
+Products that simplify workflows, manage data, and solve practical business problems.
 
 **Full-Stack Systems**  
 Frontend interfaces, APIs, authentication, databases, dashboards, and cloud infrastructure working together.
 
 **AI & Automation**  
-Exploring how AI can make software more useful, efficient, and intelligent.
+Exploring practical ways to use AI and automation to make software more useful and efficient.
 
 ---
 
@@ -30,9 +30,11 @@ Exploring how AI can make software more useful, efficient, and intelligent.
 
 ### CloudSpaceGo
 
-A cloud storage product built from the ground up, with secure file management, authentication, folder organization, pagination, and cloud-based storage.
+A full-stack cloud storage product built from the ground up, covering authentication, file management, folder organization, pagination, and cloud storage.
 
 `Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Cloudflare R2`
+
+[View Project →](https://cloudspacego.vercel.app/)
 
 ---
 
@@ -42,6 +44,8 @@ A real-world school management platform designed to simplify administrative work
 
 `React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MongoDB`
 
+[Live Demo →](https://mps-mohanpur.vercel.app/)
+
 ---
 
 ### PKBeyond
@@ -50,13 +54,17 @@ An interactive developer portfolio built around storytelling, motion, and immers
 
 `React` `TypeScript` `Tailwind CSS` `GSAP`
 
+[Live Demo →](https://pk-beyond.dev-prashant-kumaar.workers.dev/)
+
 ---
 
 ### New Look Gents Parlour
 
-A real client website focused on helping a local business establish a modern online presence.
+A real client website built to help a local business establish a modern online presence.
 
 `React` `TypeScript` `Tailwind CSS`
+
+[Live Demo →](https://new-look-gents-parlour.programmerkrprashant.workers.dev/)
 
 ---
 
@@ -75,7 +83,7 @@ Git · GitHub · Vercel · Cloudflare · MongoDB Atlas
 
 ## Currently
 
-I'm building and improving real-world products while going deeper into:
+Building and improving real-world products while going deeper into:
 
 **Full-Stack Development · System Design · Cloud Infrastructure · Performance · AI · Automation**
 
@@ -96,6 +104,10 @@ I'm building and improving real-world products while going deeper into:
 
 ---
 
-> Building software that solves real problems.
+## Let's Build
 
-**Idea → Product → Deployment → Improvement**
+I'm interested in working on **useful products, SaaS ideas, business software, and interesting web applications.**
+
+If you're building something, let's connect.
+
+[Portfolio](https://www.pkdev.pro/) · [LinkedIn](https://www.linkedin.com/in/prashant-web-developer/) · [X](https://x.com/Dev_Prashant_K) · [Email](mailto:dev.prashant.kumaar@gmail.com)
