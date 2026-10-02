@@ -7,14 +7,17 @@ I build **web products, SaaS applications, and business software** — from idea
 I enjoy working across the frontend and backend, turning real requirements into products that are clean, scalable, practical, and easy to use.
 
 <p align="left">
-  <a href="https://prashantkumar.dev">
-    <img src="https://img.shields.io/badge/Portfolio-prashantkumar.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://www.pkdev.pro/">
+    <img src="https://img.shields.io/badge/Portfolio-pkdev.pro-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/prashant-web-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/prashantkumarpro">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://x.com/Dev_Prashant_K">
+    <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:dev.prashant.kumaar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -238,11 +241,17 @@ I'm open to connecting with:
 If you're building something interesting, feel free to connect.
 
 <p align="left">
+  <a href="https://www.pkdev.pro/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/prashant-web-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://prashantkumar.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://x.com/Dev_Prashant_K">
+    <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:dev.prashant.kumaar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
