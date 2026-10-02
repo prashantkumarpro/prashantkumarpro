@@ -12,7 +12,7 @@ I work across the frontend and backend, from responsive interfaces and product e
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Full Stack Developer focused on building real-world web applications and products.
 
@@ -24,7 +24,7 @@ I also use AI-assisted development to research, solve problems, iterate, and shi
 
 ---
 
-## 💼 What I Build
+##  What I Build
 
 - 🌐 Web Applications
 - 🚀 SaaS Products
@@ -37,7 +37,7 @@ I also use AI-assisted development to research, solve problems, iterate, and shi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
