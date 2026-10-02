@@ -1,6 +1,10 @@
-# Hey, I'm Prashant Kumar 👋
+# Hey, I'm Prashant Kumar
 
-### Full Stack Developer 
+### Full Stack Developer & Product Builder
+
+I build modern web products, SaaS applications, and business software — turning ideas and real-world requirements into usable, production-ready applications.
+
+I work across the frontend and backend, from responsive interfaces and product experiences to APIs, authentication, databases, and deployment.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prashantkumarpro&label=Profile%20Views&color=7c3aed&style=flat" alt="profile views" />
@@ -10,60 +14,89 @@
 
 ## 🚀 About Me
 
-I'm a passionate frontend developer focused on building modern, immersive, and user-centric web experiences.
+I'm a Full Stack Developer focused on building real-world web applications and products.
 
-I enjoy combining design, animation, storytelling, and engineering to create visually engaging digital products using modern web technologies.
+I enjoy taking an idea, understanding the problem behind it, and turning it into a practical product with a clean user experience and solid technical foundation.
 
-Currently, I'm building full-stack applications and cinematic frontend experiences using React, TypeScript, Node.js, Express, MongoDB, GSAP, and modern UI technologies.
+Currently, I'm building and improving products like **CloudSpaceGo** while continuing to strengthen my frontend, backend, system design, and product development skills.
 
-### 💼 What I’m Doing
+I also use AI-assisted development to research, solve problems, iterate, and ship faster — while keeping the thinking and engineering decisions my own.
 
-- Building real-world full-stack applications
-- Learning advanced React & TypeScript patterns
-- Improving backend development and system design skills
-- Creating cinematic frontend experiences
-- Exploring animations, performance optimization, and scalable architecture
-- Growing as a software engineer every day
+---
+
+## 💼 What I Build
+
+- 🌐 Web Applications
+- 🚀 SaaS Products
+- 🏢 Business Software
+- 📊 Admin Dashboards & Management Systems
+- 🔐 Authentication & User Systems
+- 🔌 REST APIs & Backend Services
+- ☁️ Cloud-Based Applications
+- 🎨 Modern, Responsive Frontend Experiences
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
 </p>
 
-### Backend
+### Backend & Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Animation & Creative Development
-<p>
-  <img src="https://skillicons.dev/icons?i=threejs" />
-</p>
-
 ### Tools & Platforms
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,bun" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,cloudflare" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
+### ☁️ cloudspacego
+
+A full-stack cloud storage platform for managing, organizing, and sharing files.
+
+Built as a real-world SaaS product with a focus on authentication, file management, cloud storage, pagination, and scalable architecture.
+
+**Key Features**
+
+- User authentication
+- File and folder management
+- Cloud file storage
+- File sharing
+- Search and pagination
+- Storage management
+- Responsive dashboard
+- Cloudflare R2 integration
+
+**Tech Stack**
+
+Next.js • TypeScript • Node.js • Express • MongoDB • Cloudflare R2
+
+---
+
 ### 🎓 Max Public School
 
-A real-world full-stack school management platform with:
+A full-stack school management platform designed to simplify administrative workflows.
+
+**Key Features**
 
 - Student management
+- Attendance
 - Report cards
-- Attendance system
 - Admin dashboard
-- Responsive UI
+- Responsive interface
 
-#### 🛠️ Tech Stack
+**Tech Stack**
 
 React • TypeScript • Tailwind CSS • Node.js • Express • MongoDB
 
@@ -71,23 +104,20 @@ React • TypeScript • Tailwind CSS • Node.js • Express • MongoDB
 
 ---
 
-### 🌌 PKBeyond — Cinematic Anime Developer Portfolio
+### 🌌 PKBeyond
 
-A futuristic anime-inspired cinematic developer portfolio focused on storytelling, immersive UI, smooth animations, and emotional visual experiences.
+A cinematic developer portfolio focused on storytelling, immersive interfaces, and interactive frontend experiences.
 
-Built with modern frontend technologies and AI-assisted workflows to create a unique interactive developer journey.
-
-#### ✨ Features
+**Key Features**
 
 - Cinematic scroll animations
-- Anime-inspired futuristic visuals
-- Smooth GSAP transitions
-- Interactive storytelling sections
-- Responsive mobile-first experience
-- Immersive UI effects
-- Modern premium design system
+- Interactive storytelling
+- GSAP animations
+- Responsive design
+- Immersive UI
+- Modern design system
 
-#### 🛠️ Tech Stack
+**Tech Stack**
 
 React • TypeScript • Tailwind CSS • GSAP • Framer Motion • Three.js
 
@@ -97,73 +127,47 @@ React • TypeScript • Tailwind CSS • GSAP • Framer Motion • Three.js
 
 ### 💈 New Look Gents Parlour
 
-A real client project built for a barber shop business with:
+A real client website built for a local barber shop business.
 
-- Modern responsive design
+**Key Features**
+
+- Responsive design
 - WhatsApp integration
 - Google Maps integration
 - SEO-friendly pages
+- Modern business-focused UI
 
-#### 🛠️ Tech Stack
+**Tech Stack**
 
-React • TypeScript • Tailwind CSS • Modern UI Design
+React • TypeScript • Tailwind CSS
 
 🔗 Live Demo: https://new-look-gents-parlour.programmerkrprashant.workers.dev/
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Currently Learning
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkumarpro&theme=radical&hide_border=true" 
-    height="180"
-  />
-</p>
+- Advanced Backend Development
+- System Design
+- Scalable Application Architecture
+- Performance Optimization
+- Cloud Infrastructure
+- Better Product Development Practices
 
 ---
 
-## 🔥 Current Focus
+## 🎯 What I'm Working Toward
 
-```js
-const prashant = {
-  code: ["JavaScript", "TypeScript"],
+Building useful software, shipping real products, and becoming a stronger engineer through hands-on development.
 
-  frontend: [
-    "React",
-    "Redux",
-    "Tailwind CSS",
-    "GSAP",
-    "Framer Motion"
-  ],
+---
 
-  backend: [
-    "Node.js",
-    "Express.js"
-  ],
+## 🤝 Let's Connect
 
-  database: ["MongoDB"],
+I'm always interested in connecting with developers, founders, recruiters, and people building interesting things.
 
-  creativeDevelopment: [
-    "Cinematic UI",
-    "Anime-inspired Experiences",
-    "Interactive Storytelling",
-    "Frontend Animations"
-  ],
+🌐 Portfolio: https://prashantkumar.dev/
 
-  tools: [
-    "Git",
-    "GitHub",
-    "Postman",
-    "VS Code"
-  ],
+💼 LinkedIn: https://www.linkedin.com/in/prashant-web-developer/
 
-  currentlyLearning: [
-    "Advanced Backend Development",
-    "System Design",
-    "Performance Optimization",
-    "Three.js"
-  ],
-
-  goal: "Become a great Software Engineer 🚀"
-}
+𝕏 X: https://x.com/Dev_Prashant_K
