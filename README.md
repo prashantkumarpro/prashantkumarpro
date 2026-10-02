@@ -1,144 +1,42 @@
-# Hey, I'm Prashant Kumar
+# Hey, I'm Prashant Kumar 👋
 
-### Full Stack Developer & Product Builder
+## Full Stack Developer & Product Builder
 
-I build modern web applications, SaaS products, and business-focused software — from idea to deployment.
+I build **web products, SaaS applications, and business software** — from idea to deployment.
+
+I enjoy working across the frontend and backend, turning real requirements into products that are clean, scalable, practical, and easy to use.
 
 <p align="left">
   <a href="https://prashantkumar.dev">
-    <img src="https://img.shields.io/badge/Portfolio-prashantkumar.dev-111111?style=flat-square" />
+    <img src="https://img.shields.io/badge/Portfolio-prashantkumar.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/prashant-web-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/prashantkumarpro">
-    <img src="https://img.shields.io/github/followers/prashantkumarpro?label=GitHub&style=flat-square" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## About Me
+## 🚀 What I Build
 
-I'm a **Full Stack Developer focused on building real-world web products**.
+I focus on building **real-world software**, not just tutorial projects.
 
-I enjoy taking an idea or business requirement and turning it into a usable product — from interface design and frontend development to APIs, databases, authentication, and deployment.
-
-My current focus is on:
-
-- Building SaaS and web products
-- Developing scalable full-stack applications
-- Creating clean and responsive user interfaces
-- Designing APIs and backend systems
-- Improving performance and user experience
-- Learning better architecture and product development practices
-
-I'm currently building and improving **CloudSpaceGo**, a full-stack cloud storage product.
+- SaaS applications
+- Business software
+- Full-stack web applications
+- Admin dashboards
+- Authentication & authorization systems
+- REST APIs
+- Cloud-based applications
+- Responsive web interfaces
+- Interactive frontend experiences
 
 ---
 
-## What I Build
-
-```text
-Web Applications     →  Modern, responsive & production-ready
-SaaS Products        →  Real-world product ideas & workflows
-Business Software    →  Dashboards, management systems & tools
-Frontend Experiences →  Clean UI, interactions & animations
-Full-Stack Systems   →  APIs, authentication, databases & storage
-````
-
----
-
-## Featured Projects
-
-### ☁️ CloudSpaceGo
-
-A full-stack cloud storage application inspired by modern file storage platforms.
-
-Users can upload, organize, preview, search, share, and manage their files through a modern web interface.
-
-**Built with:**
-
-`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Cloudflare R2`
-
-**Highlights**
-
-* Authentication & protected resources
-* File and folder management
-* Cursor-based pagination
-* File preview
-* Search and filtering
-* User-isolated file access
-* Cloudflare R2 object storage
-* MongoDB Atlas
-* Production deployment
-
-🔗 **Project:** Coming soon
-
----
-
-### 🎓 Max Public School
-
-A real-world school management platform designed to simplify administrative workflows.
-
-**Features**
-
-* Student management
-* Attendance management
-* Report cards
-* Admin dashboard
-* Responsive interface
-
-**Built with:**
-
-`React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MongoDB`
-
-🔗 **Live:** [https://mps-mohanpur.vercel.app/](https://mps-mohanpur.vercel.app/)
-
----
-
-### 🎬 PKBeyond
-
-A cinematic developer portfolio focused on immersive storytelling and interactive frontend experiences.
-
-**Features**
-
-* Cinematic animations
-* Interactive storytelling
-* GSAP transitions
-* Responsive design
-* Premium UI interactions
-* Performance-focused frontend
-
-**Built with:**
-
-`React` `TypeScript` `Tailwind CSS` `GSAP` `Framer Motion` `Three.js`
-
-🔗 **Live:** [https://pk-beyond.dev-prashant-kumaar.workers.dev/](https://pk-beyond.dev-prashant-kumaar.workers.dev/)
-
----
-
-### 💈 New Look Gents Parlour
-
-A real client website built for a local barber business.
-
-**Features**
-
-* Responsive design
-* WhatsApp integration
-* Google Maps integration
-* SEO-friendly structure
-* Business-focused UI
-
-**Built with:**
-
-`React` `TypeScript` `Tailwind CSS`
-
-🔗 **Live:** [https://new-look-gents-parlour.programmerkrprashant.workers.dev/](https://new-look-gents-parlour.programmerkrprashant.workers.dev/)
-
----
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
@@ -152,91 +50,204 @@ A real client website built for a local barber business.
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Tools & Infrastructure
+### Cloud, Deployment & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,postman,vscode,npm" />
 </p>
 
 ### Creative Development
 
-`GSAP` `Framer Motion` `Three.js`
+<p>
+  <img src="https://skillicons.dev/icons?i=gsap,threejs" />
+</p>
 
 ---
 
-## Currently Building
+# 🔨 Currently Building
 
-### CloudSpaceGo
+## ☁️ CloudSpaceGo
 
-I'm actively developing CloudSpaceGo as a real-world SaaS-style product.
+A full-stack cloud storage application built from the ground up.
 
-Current areas of focus:
+CloudSpaceGo is my main product-building project, where I'm working across the frontend, backend, database, authentication, cloud storage, and deployment.
 
-* Product architecture
-* File storage infrastructure
-* Authentication
-* API design
-* Database architecture
-* Performance
-* Security
-* User experience
-* Production deployment
+### Built with
 
-> Building, shipping, learning, and improving one iteration at a time.
+`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Cloudflare R2`
 
----
+### Key areas
 
-## How I Approach Development
+- Authentication & authorization
+- File and folder management
+- Cloud file storage
+- Upload & deletion workflows
+- Cursor-based pagination
+- User-isolated file access
+- Storage management
+- Production deployment
+- Scalable backend architecture
 
-I care about more than making something work.
-
-I try to build products that are:
-
-**Useful** → Solve a real problem
-**Simple** → Easy for users to understand
-**Scalable** → Designed with future growth in mind
-**Maintainable** → Clean and understandable code
-**Fast** → Good performance and user experience
-**Production-ready** → Built beyond the tutorial stage
+> Building products teaches me more than building isolated features.
 
 ---
 
-## GitHub Activity
+# ⭐ Featured Projects
+
+## ☁️ CloudSpaceGo
+
+A cloud storage web application built around a simple idea:
+
+**Your files. One simple space.**
+
+`Next.js` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `Cloudflare R2`
+
+---
+
+## 🏫 Max Public School
+
+A real-world school management platform featuring:
+
+- Student management
+- Attendance
+- Report cards
+- Admin dashboard
+- Responsive interfaces
+
+`React` · `TypeScript` · `Tailwind CSS` · `Node.js` · `Express` · `MongoDB`
+
+🔗 https://mps-mohanpur.vercel.app/
+
+---
+
+## 🎬 PKBeyond
+
+A cinematic developer portfolio focused on immersive storytelling and interactive frontend experiences.
+
+### Features
+
+- Cinematic animations
+- Interactive storytelling
+- Creative UI
+- Responsive design
+- Smooth transitions
+- Immersive visual experiences
+
+`React` · `TypeScript` · `Tailwind CSS` · `GSAP` · `Framer Motion` · `Three.js`
+
+🔗 https://pk-beyond.dev-prashant-kumaar.workers.dev/
+
+---
+
+## 💈 New Look Gents Parlour
+
+A real client website designed and developed for a local business.
+
+- Responsive design
+- WhatsApp integration
+- Google Maps integration
+- SEO-friendly structure
+- Modern business-focused UI
+
+`React` · `TypeScript` · `Tailwind CSS`
+
+🔗 https://new-look-gents-parlour.programmerkrprashant.workers.dev/
+
+---
+
+# 💡 How I Approach Development
+
+I don't want to just write code.
+
+I want to understand the complete journey:
+
+**Problem → Product → Experience → Architecture → Deployment → Improvement**
+
+I care about:
+
+- Clean and maintainable code
+- Good user experience
+- Performance
+- Responsive design
+- Scalable architecture
+- Real-world usability
+- Shipping and improving products
+
+---
+
+# 📈 Currently Improving
+
+I'm continuously strengthening my skills in:
+
+- React & Next.js
+- TypeScript
+- Backend architecture
+- API design
+- Database design
+- Authentication systems
+- Cloud infrastructure
+- Performance optimization
+- System design
+- SaaS architecture
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkumarpro&theme=dark&hide_border=true"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=prashantkumarpro&show_icons=true&hide_border=true&count_private=true&rank_icon=github"
+    height="170"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkumarpro&hide_border=true"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkumarpro&layout=compact&hide_border=true&langs_count=8"
   />
 </p>
 
 ---
 
-## Let's Connect
+# 🌱 Exploring
 
-I'm interested in:
+**Web Products · SaaS · Startups · Business Software · AI · Automation · Product Development**
 
-* Full Stack Developer opportunities
-* Frontend / Web Development work
-* Freelance projects
-* SaaS and product development
-* Collaborating with developers and builders
-* Building useful products for real businesses
+I'm interested in understanding how software moves from:
 
-If you're building something interesting, feel free to reach out.
+**Idea → Product → Users → Improvement**
+
+---
+
+# 🤝 Let's Connect
+
+I'm open to connecting with:
+
+- Developers
+- Founders
+- Designers
+- Startups
+- Businesses
+- Recruiters
+- People building interesting products
+
+If you're building something interesting, feel free to connect.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/prashant-web-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://prashantkumar.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### Building real products. Learning continuously. Shipping consistently. 
-
-
-
+<p align="center">
+  <i>Building. Learning. Shipping. Improving.</i>
+</p>
