@@ -34,11 +34,9 @@ Exploring practical ways to use AI and automation to make software more useful, 
 
 ### CloudSpaceGo
 
-**Cloud storage, built from the ground up.**
+**A cloud storage product built from the ground up.**
 
 A full-stack cloud storage application with authentication, file and folder management, pagination, user-isolated access, and cloud-based object storage.
-
-**Stack**
 
 `Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Cloudflare R2`
 
@@ -52,8 +50,6 @@ A full-stack cloud storage application with authentication, file and folder mana
 
 A full-stack system designed to simplify administrative workflows and bring student management, records, and school operations into one platform.
 
-**Stack**
-
 `React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MongoDB`
 
 [Live Demo →](https://mps-mohanpur.vercel.app/)
@@ -66,8 +62,6 @@ A full-stack system designed to simplify administrative workflows and bring stud
 
 A cinematic frontend experience combining immersive layouts, motion, animation, and interactive storytelling.
 
-**Stack**
-
 `React` `TypeScript` `Tailwind CSS` `GSAP`
 
 [Live Demo →](https://pk-beyond.dev-prashant-kumaar.workers.dev/)
@@ -79,8 +73,6 @@ A cinematic frontend experience combining immersive layouts, motion, animation, 
 **A real client website for a local business.**
 
 A modern responsive website designed to establish an online presence and make it easier for customers to discover and connect with the business.
-
-**Stack**
 
 `React` `TypeScript` `Tailwind CSS`
 
@@ -106,20 +98,19 @@ A modern responsive website designed to establish an online presence and make it
 
 ## Currently Building
 
-I'm currently focused on building and improving real-world software while going deeper into:
+I'm focused on building and improving real-world software while going deeper into:
 
 **Full-Stack Development · System Design · Cloud Infrastructure · Performance · AI · Automation**
 
-My focus is not just learning technologies — it's understanding how to **design, build, deploy, and improve complete products.**
+My focus is not just learning technologies.
+
+It's understanding how to **design, build, deploy, and improve complete products.**
 
 ---
 
 ## GitHub Activity
 
-<p>
-  <strong>Building consistently. Shipping consistently.</strong><br>
-  A look at my recent development activity and contribution history.
-</p>
+Building consistently and shipping real products.
 
 <table>
 <tr>
@@ -158,10 +149,10 @@ My focus is not just learning technologies — it's understanding how to **desig
 
 <br>
 
-### Contribution Graph
+### Recent Activity
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=prashantkumarpro&bg_color=0D1117&color=C9D1D9&line=D6A85A&point=FFFFFF&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=prashantkumarpro&theme=github-compact&hide_border=true&custom_title=Recent%20GitHub%20Activity&radius=8&height=280"
   width="100%"
 />
 
@@ -171,22 +162,22 @@ My focus is not just learning technologies — it's understanding how to **desig
 
 I'm interested in working on **useful products, SaaS ideas, business software, and interesting web applications.**
 
-If you're building something interesting, I'd be happy to connect.
+If you're building something interesting, let's connect.
 
 **Portfolio**  
-https://www.pkdev.pro/
+[pkdev.pro](https://www.pkdev.pro/)
 
 **LinkedIn**  
-https://www.linkedin.com/in/prashant-web-developer/
+[Prashant Kumar](https://www.linkedin.com/in/prashant-web-developer/)
 
 **X**  
-https://x.com/Dev_Prashant_K
+[@Dev_Prashant_K](https://x.com/Dev_Prashant_K)
 
 **Email**  
-dev.prashant.kumaar@gmail.com
+[dev.prashant.kumaar@gmail.com](mailto:dev.prashant.kumaar@gmail.com)
 
 ---
 
 <p>
-  <strong>Build → Ship → Learn → Improve.</strong>
+  <strong>Build. Ship. Improve.</strong>
 </p>
