@@ -1,72 +1,64 @@
+<div align="center">
+
 # Prashant Kumar
 
 ### Full Stack Developer & Product Builder
 
-I build **web products, SaaS applications, and business software.**
+Building web products, SaaS & business software.
 
-Currently building **[CloudSpaceGo](https://cloudspacego.vercel.app/)** — a full-stack cloud storage product.
+[Portfolio](https://www.pkdev.pro/) ·
+[LinkedIn](https://www.linkedin.com/in/prashant-web-developer/) ·
+[X](https://x.com/Dev_Prashant_K) ·
+[Email](mailto:dev.prashant.kumaar@gmail.com)
 
-[Portfolio](https://www.pkdev.pro/) · [LinkedIn](https://www.linkedin.com/in/prashant-web-developer/) · [X](https://x.com/Dev_Prashant_K) · [Email](mailto:dev.prashant.kumaar@gmail.com)
-
----
-
-## About
-
-I enjoy turning ideas and real-world requirements into software that people can actually use.
-
-My work spans **frontend, backend, databases, APIs, authentication, and cloud infrastructure**.
-
-I'm particularly interested in **SaaS, business software, product development, AI, and automation.**
+</div>
 
 ---
 
-## What I've Built
+## Currently Building
 
 ### CloudSpaceGo
-**Cloud storage web application**
 
-A full-stack product built from the ground up with authentication, file and folder management, upload workflows, pagination, APIs, and cloud storage.
+I'm building a cloud storage product from the ground up.
 
-`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Cloudflare R2`
+It covers the complete product stack — authentication, file and folder management, APIs, database design, pagination, cloud storage, and deployment.
 
-**[Live →](https://cloudspacego.vercel.app/)**
+**Next.js · TypeScript · Node.js · Express · MongoDB · Cloudflare R2**
 
----
-
-### Max Public School
-**School management platform**
-
-A real-world application for managing students, attendance, report cards, and administrative workflows.
-
-`React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MongoDB`
-
-**[Live →](https://mps-mohanpur.vercel.app/)**
+[Live →](https://cloudspacego.vercel.app/)
 
 ---
 
-### PKBeyond
-**Interactive developer portfolio**
+## Selected Work
 
-A frontend experience built around storytelling, motion, and immersive interactions.
+**Max Public School**  
+School management platform built around real administrative workflows.
+
+`React` `TypeScript` `Node.js` `Express` `MongoDB`
+
+[Live →](https://mps-mohanpur.vercel.app/)
+
+---
+
+**PKBeyond**  
+Interactive developer portfolio focused on storytelling, motion, and frontend experiences.
 
 `React` `TypeScript` `Tailwind CSS` `GSAP`
 
-**[Live →](https://pk-beyond.dev-prashant-kumaar.workers.dev/)**
+[Live →](https://pk-beyond.dev-prashant-kumaar.workers.dev/)
 
 ---
 
-### New Look Gents Parlour
-**Client website**
-
-A modern website built for a local business with responsive design and business-focused integrations.
+**New Look Gents Parlour**  
+Client website built to give a local business a modern online presence.
 
 `React` `TypeScript` `Tailwind CSS`
 
-**[Live →](https://new-look-gents-parlour.programmerkrprashant.workers.dev/)**
+[Live →](https://new-look-gents-parlour.programmerkrprashant.workers.dev/)
 
 ---
 
-## Stack
+## What I Work With
 
 **Frontend**  
 JavaScript · TypeScript · React · Next.js · Tailwind CSS
@@ -79,29 +71,29 @@ Git · GitHub · Vercel · Cloudflare · MongoDB Atlas
 
 ---
 
-## Currently
+## What I'm Exploring
 
-Building and shipping real-world products while improving my skills in:
-
-**System Design · Backend Architecture · Cloud Infrastructure · Performance · AI · Automation**
+System design · Cloud infrastructure · Performance · AI · Automation · SaaS architecture
 
 ---
 
-## GitHub
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantkumarpro&show_icons=true&hide_border=true&theme=transparent" height="165" />
-  <img src="https://streak-stats.demolab.com?user=prashantkumarpro&hide_border=true&background=transparent" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=prashantkumarpro&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    height="160"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=prashantkumarpro&hide_border=true&background=transparent"
+    height="160"
+  />
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-**Build something useful. Ship it. Keep improving.**
+**Building → Shipping → Learning → Improving**
 
-<br />
-
-<a href="https://www.pkdev.pro/">pkdev.pro →</a>
-
-</p>
+</div>
