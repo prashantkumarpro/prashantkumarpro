@@ -1,173 +1,242 @@
-<div align="center">
+<div align="left">
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=D6A85A&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Product+Builder;Building+Web+Products+%26+SaaS" />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=900&color=D6A85A&vCenter=true&width=600&lines=Full+Stack+Developer;Product+Builder;Building+Web+Products+%26+SaaS" />
 
 # Prashant Kumar
 
-<p>
-  <strong>Building web products, SaaS & business software.</strong>
-</p>
+### Full Stack Developer & Product Builder
+
+I build **web products, SaaS applications, and business software** — from idea to deployment.
+
+I work across frontend, backend, databases, APIs, and cloud infrastructure to turn real requirements into software that is practical and ready for real users.
 
 <br>
 
-<a href="https://www.pkdev.pro/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&labelColor=111111&color=D6A85A" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/prashant-web-developer/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&labelColor=111111&color=D6A85A" />
-</a>
-&nbsp;
-<a href="https://x.com/Dev_Prashant_K">
-  <img src="https://img.shields.io/badge/X-Follow-111111?style=flat-square&labelColor=111111&color=D6A85A" />
-</a>
-&nbsp;
-<a href="mailto:dev.prashant.kumaar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-111111?style=flat-square&labelColor=111111&color=D6A85A" />
-</a>
-
-<br><br>
+**[Portfolio](https://www.pkdev.pro/)** &nbsp;·&nbsp;
+**[LinkedIn](https://www.linkedin.com/in/prashant-web-developer/)** &nbsp;·&nbsp;
+**[X](https://x.com/Dev_Prashant_K)** &nbsp;·&nbsp;
+**[Email](mailto:dev.prashant.kumaar@gmail.com)**
 
 </div>
 
 ---
 
-<div align="center">
-
-### Currently building
-
-# CloudSpaceGo
-
-**A cloud storage product built from the ground up.**
-
-</div>
+## Currently Building
 
 <table>
 <tr>
-<td width="55%" valign="middle">
+<td width="65%" valign="top">
 
-CloudSpaceGo brings together:
+### CloudSpaceGo
+
+**A cloud storage product built from the ground up.**
+
+CloudSpaceGo is a full-stack cloud storage application focused on secure file management and a clean product experience.
+
+**Core work**
 
 - Authentication & authorization
-- File & folder management
+- File and folder management
 - Upload workflows
+- User-isolated file access
 - REST APIs
 - Cursor-based pagination
-- User-isolated access
-- Database architecture
-- Cloud storage infrastructure
+- MongoDB data architecture
+- Cloudflare R2 storage
+- Production deployment
 
-**Built with**
+**Stack**
 
-`Next.js` `TypeScript` `Node.js` `Express`  
+`Next.js` `TypeScript` `Node.js` `Express`
 `MongoDB` `Cloudflare R2`
 
 <br>
 
-<a href="https://cloudspacego.vercel.app/">
-  <strong>Explore CloudSpaceGo →</strong>
-</a>
+**[Open CloudSpaceGo →](https://cloudspacego.vercel.app/)**
 
 </td>
 
-<td width="45%" align="center">
+<td width="35%" valign="top">
+
+### PRODUCT
+
+**Cloud storage**
+
+<br>
+
+**Frontend**  
+Next.js + TypeScript
+
+**Backend**  
+Node.js + Express
+
+**Database**  
+MongoDB Atlas
+
+**Storage**  
+Cloudflare R2
+
+**Deployment**  
+Vercel + Render
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected Work
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 01 / Max Public School
+
+**School Management Platform**
+
+A real-world application designed around student management and administrative workflows.
+
+`React` `TypeScript` `Tailwind CSS`  
+`Node.js` `Express` `MongoDB`
+
+**[View project →](https://mps-mohanpur.vercel.app/)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 02 / PKBeyond
+
+**Cinematic Developer Portfolio**
+
+An interactive frontend experience built around storytelling, motion, and immersive visual design.
+
+`React` `TypeScript` `Tailwind CSS`  
+`GSAP`
+
+**[View project →](https://pk-beyond.dev-prashant-kumaar.workers.dev/)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 03 / New Look Gents Parlour
+
+**Client Website**
+
+A modern business website created to establish a stronger online presence for a local business.
+
+`React` `TypeScript` `Tailwind CSS`
+
+**[View project →](https://new-look-gents-parlour.programmerkrprashant.workers.dev/)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 04 / More Work
+
+**Websites · Applications · Experiments**
+
+More projects, experiments, and product work are available on my portfolio.
+
+<br>
+
+**[Explore portfolio →](https://www.pkdev.pro/)**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Technology
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Frontend
+
+JavaScript  
+TypeScript  
+React  
+Next.js  
+Tailwind CSS
+
+</td>
+
+<td width="33%" valign="top">
+
+### Backend
+
+Node.js  
+Express  
+MongoDB  
+REST APIs  
+Authentication
+
+</td>
+
+<td width="33%" valign="top">
+
+### Infrastructure
+
+Git  
+GitHub  
+Vercel  
+Cloudflare  
+MongoDB Atlas
+
+</td>
+</tr>
+</table>
+
+---
+
+## Exploring
+
+I'm currently going deeper into:
+
+**SaaS architecture**  
+**System design**  
+**Cloud infrastructure**  
+**Performance engineering**  
+**AI & automation**
+
+The goal isn't just to write code.
+
+It's to understand how a product goes from **idea → architecture → implementation → deployment → improvement.**
+
+---
+
+## GitHub Activity
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 <img
-  src="https://placehold.co/700x450/0D0B0A/D6A85A?text=CloudSpaceGo"
+  src="https://github-readme-stats.vercel.app/api?username=prashantkumarpro&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
   width="100%"
 />
 
 </td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## Selected Work
-
-</div>
-
-<table>
-<tr>
 
 <td width="50%" valign="top">
 
-### Max Public School
-
-Real-world school management platform designed around administrative workflows.
-
-**Built with**
-
-`React` `TypeScript`  
-`Node.js` `Express` `MongoDB`
-
-<br>
-
-<a href="https://mps-mohanpur.vercel.app/">
-Live Demo →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### PKBeyond
-
-Interactive developer portfolio focused on storytelling, motion and immersive frontend experiences.
-
-**Built with**
-
-`React` `TypeScript`  
-`Tailwind CSS` `GSAP`
-
-<br>
-
-<a href="https://pk-beyond.dev-prashant-kumaar.workers.dev/">
-Live Demo →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### New Look Gents Parlour
-
-A real client website built for a local business.
-
-**Built with**
-
-`React` `TypeScript`  
-`Tailwind CSS`
-
-<br>
-
-<a href="https://new-look-gents-parlour.programmerkrprashant.workers.dev/">
-Live Demo →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### More Projects
-
-More experiments, applications and client work are available on my portfolio.
-
-<br><br>
-
-<a href="https://www.pkdev.pro/">
-<strong>Explore Portfolio →</strong>
-</a>
+<img
+  src="https://streak-stats.demolab.com?user=prashantkumarpro&hide_border=true&background=00000000&ring=D6A85A&fire=D6A85A&currStreakLabel=D6A85A"
+  width="100%"
+/>
 
 </td>
 
@@ -176,105 +245,18 @@ More experiments, applications and client work are available on my portfolio.
 
 ---
 
-<div align="center">
+## Now
 
-## Stack
-
-<br>
-
-`JavaScript` · `TypeScript` · `React` · `Next.js`
-
-`Node.js` · `Express` · `MongoDB` · `Tailwind CSS`
-
-`Git` · `GitHub` · `Vercel` · `Cloudflare` · `MongoDB Atlas`
-
-</div>
-
----
-
-## What I'm Exploring
-
-<table>
-<tr>
-<td>
-
-**01 — SaaS**
-
-Building products that solve real problems.
-
-</td>
-<td>
-
-**02 — Systems**
-
-Going deeper into architecture and scalability.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-**03 — Cloud**
-
-Learning how modern applications are deployed and operated.
-
-</td>
-<td>
-
-**04 — AI**
-
-Exploring practical AI and automation for products.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## GitHub Activity
+**Building products.  
+Learning systems.  
+Shipping consistently.**
 
 <br>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=prashantkumarpro&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-  height="165"
-/>
+If you're working on something interesting, I'd be happy to connect.
 
-<img
-  src="https://streak-stats.demolab.com?user=prashantkumarpro&hide_border=true&background=transparent"
-  height="165"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=prashantkumarpro&bg_color=00000000&color=9CA3AF&line=D6A85A&point=D6A85A&area=true&hide_border=true"
-  width="95%"
-/>
-
-</div>
-
----
-
-<div align="center">
+**[pkdev.pro →](https://www.pkdev.pro/)**
 
 <br>
-
-## Let's build something useful.
-
-<a href="https://www.pkdev.pro/">
-  <strong>pkdev.pro →</strong>
-</a>
-
-<br><br>
 
 <sub>Full Stack Developer · Product Builder</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D6A85A&height=80&section=footer" width="100%"/>
-
-</div>
