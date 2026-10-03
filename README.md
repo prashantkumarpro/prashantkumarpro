@@ -1,231 +1,134 @@
-<div align="left">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=900&color=D6A85A&vCenter=true&width=600&lines=Full+Stack+Developer;Product+Builder;Building+Web+Products+%26+SaaS" />
-
 # Prashant Kumar
 
 ### Full Stack Developer & Product Builder
 
 I build **web products, SaaS applications, and business software** — from idea to deployment.
 
-I work across frontend, backend, databases, APIs, and cloud infrastructure to turn real requirements into software that is practical and ready for real users.
+I work across frontend and backend to turn real-world requirements into products that are **clean, scalable, practical, and ready for real users.**
 
-<br>
-
-**[Portfolio](https://www.pkdev.pro/)** &nbsp;·&nbsp;
-**[LinkedIn](https://www.linkedin.com/in/prashant-web-developer/)** &nbsp;·&nbsp;
-**[X](https://x.com/Dev_Prashant_K)** &nbsp;·&nbsp;
-**[Email](mailto:dev.prashant.kumaar@gmail.com)**
-
-</div>
+[Portfolio](https://www.pkdev.pro/) · [LinkedIn](https://www.linkedin.com/in/prashant-web-developer/) · [X](https://x.com/Dev_Prashant_K) · [Email](mailto:dev.prashant.kumaar@gmail.com)
 
 ---
 
-## Currently Building
+## What I Build
 
-<table>
-<tr>
-<td width="65%" valign="top">
+### Web Products
 
-### CloudSpaceGo
+Modern web applications designed around real users, clear requirements, and practical experiences.
 
-**A cloud storage product built from the ground up.**
+### SaaS & Business Software
 
-CloudSpaceGo is a full-stack cloud storage application focused on secure file management and a clean product experience.
+Software that simplifies workflows, manages data, and helps businesses operate more efficiently.
 
-**Core work**
+### Full-Stack Systems
 
-- Authentication & authorization
-- File and folder management
-- Upload workflows
-- User-isolated file access
-- REST APIs
-- Cursor-based pagination
-- MongoDB data architecture
-- Cloudflare R2 storage
-- Production deployment
+Frontend interfaces, APIs, authentication, databases, dashboards, and cloud infrastructure working together as one product.
 
-**Stack**
+### AI & Automation
 
-`Next.js` `TypeScript` `Node.js` `Express`
-`MongoDB` `Cloudflare R2`
-
-<br>
-
-**[Open CloudSpaceGo →](https://cloudspacego.vercel.app/)**
-
-</td>
-
-<td width="35%" valign="top">
-
-### PRODUCT
-
-**Cloud storage**
-
-<br>
-
-**Frontend**  
-Next.js + TypeScript
-
-**Backend**  
-Node.js + Express
-
-**Database**  
-MongoDB Atlas
-
-**Storage**  
-Cloudflare R2
-
-**Deployment**  
-Vercel + Render
-
-</td>
-</tr>
-</table>
+Exploring practical ways to use AI and automation to make software more useful, efficient, and intelligent.
 
 ---
 
 ## Selected Work
 
-<table>
-<tr>
+### CloudSpaceGo
 
-<td width="50%" valign="top">
+**Cloud storage, built from the ground up.**
 
-### 01 / Max Public School
+A full-stack cloud storage application with authentication, file and folder management, pagination, user-isolated access, and cloud-based object storage.
 
-**School Management Platform**
+**Stack**
 
-A real-world application designed around student management and administrative workflows.
+`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Cloudflare R2`
 
-`React` `TypeScript` `Tailwind CSS`  
-`Node.js` `Express` `MongoDB`
+[View Project →](https://cloudspacego.vercel.app/)
 
-**[View project →](https://mps-mohanpur.vercel.app/)**
+---
 
-</td>
+### Max Public School
 
-<td width="50%" valign="top">
+**A real-world school management platform.**
 
-### 02 / PKBeyond
+A full-stack system designed to simplify administrative workflows and bring student management, records, and school operations into one platform.
 
-**Cinematic Developer Portfolio**
+**Stack**
 
-An interactive frontend experience built around storytelling, motion, and immersive visual design.
+`React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MongoDB`
 
-`React` `TypeScript` `Tailwind CSS`  
-`GSAP`
+[Live Demo →](https://mps-mohanpur.vercel.app/)
 
-**[View project →](https://pk-beyond.dev-prashant-kumaar.workers.dev/)**
+---
 
-</td>
+### PKBeyond
 
-</tr>
+**An interactive developer portfolio built around storytelling.**
 
-<tr>
+A cinematic frontend experience combining immersive layouts, motion, animation, and interactive storytelling.
 
-<td width="50%" valign="top">
+**Stack**
 
-### 03 / New Look Gents Parlour
+`React` `TypeScript` `Tailwind CSS` `GSAP`
 
-**Client Website**
+[Live Demo →](https://pk-beyond.dev-prashant-kumaar.workers.dev/)
 
-A modern business website created to establish a stronger online presence for a local business.
+---
+
+### New Look Gents Parlour
+
+**A real client website for a local business.**
+
+A modern responsive website designed to establish an online presence and make it easier for customers to discover and connect with the business.
+
+**Stack**
 
 `React` `TypeScript` `Tailwind CSS`
 
-**[View project →](https://new-look-gents-parlour.programmerkrprashant.workers.dev/)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 04 / More Work
-
-**Websites · Applications · Experiments**
-
-More projects, experiments, and product work are available on my portfolio.
-
-<br>
-
-**[Explore portfolio →](https://www.pkdev.pro/)**
-
-</td>
-
-</tr>
-</table>
+[Live Demo →](https://new-look-gents-parlour.programmerkrprashant.workers.dev/)
 
 ---
 
 ## Technology
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
 ### Frontend
 
-JavaScript  
-TypeScript  
-React  
-Next.js  
-Tailwind CSS
-
-</td>
-
-<td width="33%" valign="top">
+`JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
 
 ### Backend
 
-Node.js  
-Express  
-MongoDB  
-REST APIs  
-Authentication
-
-</td>
-
-<td width="33%" valign="top">
+`Node.js` `Express.js` `MongoDB` `REST APIs`
 
 ### Infrastructure
 
-Git  
-GitHub  
-Vercel  
-Cloudflare  
-MongoDB Atlas
-
-</td>
-</tr>
-</table>
+`Git` `GitHub` `Vercel` `Cloudflare` `MongoDB Atlas`
 
 ---
 
-## Exploring
+## Currently Building
 
-I'm currently going deeper into:
+I'm currently focused on building and improving real-world software while going deeper into:
 
-**SaaS architecture**  
-**System design**  
-**Cloud infrastructure**  
-**Performance engineering**  
-**AI & automation**
+**Full-Stack Development · System Design · Cloud Infrastructure · Performance · AI · Automation**
 
-The goal isn't just to write code.
-
-It's to understand how a product goes from **idea → architecture → implementation → deployment → improvement.**
+My focus is not just learning technologies — it's understanding how to **design, build, deploy, and improve complete products.**
 
 ---
 
 ## GitHub Activity
 
+<p>
+  <strong>Building consistently. Shipping consistently.</strong><br>
+  A look at my recent development activity and contribution history.
+</p>
+
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
+### GitHub Stats
+
 <img
-  src="https://github-readme-stats.vercel.app/api?username=prashantkumarpro&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=prashantkumarpro&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=D6A85A&ring_color=D6A85A&cache_seconds=86400"
   width="100%"
 />
 
@@ -233,30 +136,57 @@ It's to understand how a product goes from **idea → architecture → implement
 
 <td width="50%" valign="top">
 
+### Contribution Streak
+
 <img
-  src="https://streak-stats.demolab.com?user=prashantkumarpro&hide_border=true&background=00000000&ring=D6A85A&fire=D6A85A&currStreakLabel=D6A85A"
+  src="https://streak-stats.demolab.com?user=prashantkumarpro&hide_border=true&background=0D1117&stroke=30363D&ring=D6A85A&fire=D6A85A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D6A85A&sideLabels=8B949E&dates=8B949E"
   width="100%"
 />
 
 </td>
-
 </tr>
 </table>
 
+<br>
+
+### Most Used Languages
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkumarpro&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=8&cache_seconds=86400"
+  width="420"
+/>
+
+<br>
+
+### Contribution Graph
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=prashantkumarpro&bg_color=0D1117&color=C9D1D9&line=D6A85A&point=FFFFFF&area=true&hide_border=true"
+  width="100%"
+/>
+
 ---
 
-## Now
+## Let's Connect
 
-**Building products.  
-Learning systems.  
-Shipping consistently.**
+I'm interested in working on **useful products, SaaS ideas, business software, and interesting web applications.**
 
-<br>
+If you're building something interesting, I'd be happy to connect.
 
-If you're working on something interesting, I'd be happy to connect.
+**Portfolio**  
+https://www.pkdev.pro/
 
-**[pkdev.pro →](https://www.pkdev.pro/)**
+**LinkedIn**  
+https://www.linkedin.com/in/prashant-web-developer/
 
-<br>
+**X**  
+https://x.com/Dev_Prashant_K
 
-<sub>Full Stack Developer · Product Builder</sub>
+**Email**  
+dev.prashant.kumaar@gmail.com
+
+---
+
+<p>
+  <strong>Build → Ship → Learn → Improve.</strong>
+</p>
