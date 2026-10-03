@@ -1,113 +1,133 @@
+Yes. If you want **cool**, I would move away from the previous "resume in Markdown" style.
+
+Your README should feel like a **personal product-builder profile**: strong opening, visual sections, projects with clear links, a little personality, but still clean and professional.
+
+I’d use this version:
+
+````md
 # Prashant Kumar
 
-### Full Stack Developer & Product Builder
+### Full Stack Developer · Product Builder · SaaS
 
-I build **web products, SaaS applications, and business software** — from idea to deployment.
+> Building web products and business software from idea to deployment.
 
-I work across frontend and backend to turn real-world requirements into products that are **clean, scalable, practical, and ready for real users.**
+I work across **frontend, backend, databases, and cloud infrastructure** to turn real-world problems into practical software.
 
 [Portfolio](https://www.pkdev.pro/) · [LinkedIn](https://www.linkedin.com/in/prashant-web-developer/) · [X](https://x.com/Dev_Prashant_K) · [Email](mailto:dev.prashant.kumaar@gmail.com)
 
 ---
 
-## What I Build
+## What I'm Building
 
-**Web Products**  
-Modern applications designed around real users and real requirements.
+### CloudSpaceGo
 
-**SaaS & Business Software**  
-Products that simplify workflows, manage data, and solve practical business problems.
+**A cloud storage product built from the ground up.**
 
-**Full-Stack Systems**  
-Frontend interfaces, APIs, authentication, databases, dashboards, and cloud infrastructure working together.
+CloudSpaceGo combines authentication, file management, folder organization, pagination, APIs, databases, and cloud storage into one full-stack application.
 
-**AI & Automation**  
-Exploring practical ways to use AI and automation to make software more useful and efficient.
+**Stack**
+
+`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Cloudflare R2`
+
+[Live Project →](https://cloudspacego.vercel.app/)
 
 ---
 
 ## Selected Work
 
-### CloudSpaceGo
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **CloudSpaceGo** | Full-stack cloud storage platform | Next.js · TypeScript · Node.js · MongoDB · R2 |
+| **Max Public School** | School management platform | React · TypeScript · Node.js · MongoDB |
+| **PKBeyond** | Interactive developer portfolio | React · TypeScript · GSAP |
+| **New Look Gents Parlour** | Real client business website | React · TypeScript · Tailwind CSS |
 
-A full-stack cloud storage product built from the ground up, covering authentication, file management, folder organization, pagination, and cloud storage.
+**Projects**
 
-`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Cloudflare R2`
-
-[View Project →](https://cloudspacego.vercel.app/)
-
----
-
-### Max Public School
-
-A real-world school management platform designed to simplify administrative workflows and bring student management into one system.
-
-`React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `MongoDB`
-
-[Live Demo →](https://mps-mohanpur.vercel.app/)
+[Max Public School →](https://mps-mohanpur.vercel.app/) · [PKBeyond →](https://pk-beyond.dev-prashant-kumaar.workers.dev/) · [New Look Gents Parlour →](https://new-look-gents-parlour.programmerkrprashant.workers.dev/)
 
 ---
 
-### PKBeyond
+## Stack
 
-An interactive developer portfolio built around storytelling, motion, and immersive frontend experiences.
+**Frontend**
 
-`React` `TypeScript` `Tailwind CSS` `GSAP`
+`JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
 
-[Live Demo →](https://pk-beyond.dev-prashant-kumaar.workers.dev/)
+**Backend**
 
----
+`Node.js` `Express` `MongoDB` `REST APIs`
 
-### New Look Gents Parlour
+**Infrastructure**
 
-A real client website built to help a local business establish a modern online presence.
-
-`React` `TypeScript` `Tailwind CSS`
-
-[Live Demo →](https://new-look-gents-parlour.programmerkrprashant.workers.dev/)
+`Git` `GitHub` `Vercel` `Cloudflare` `MongoDB Atlas`
 
 ---
 
-## Tech
+## How I Build
 
-**Frontend**  
-JavaScript · TypeScript · React · Next.js · Tailwind CSS
+```text
+Problem
+   ↓
+Understand
+   ↓
+Design
+   ↓
+Build
+   ↓
+Deploy
+   ↓
+Improve
+````
 
-**Backend**  
-Node.js · Express · MongoDB · REST APIs
-
-**Infrastructure**  
-Git · GitHub · Vercel · Cloudflare · MongoDB Atlas
+I care about **clean interfaces, maintainable code, solid architecture, performance, and real-world usability.**
 
 ---
 
-## Currently
+## Currently Exploring
 
-Building and improving real-world products while going deeper into:
+**System Design** · **Cloud Infrastructure** · **Performance** · **AI** · **Automation** · **SaaS Architecture**
 
-**Full-Stack Development · System Design · Cloud Infrastructure · Performance · AI · Automation**
+I'm interested in how software evolves from a simple idea into a product that people actually use.
 
 ---
 
-## GitHub Activity
+## GitHub
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=prashantkumarpro&show_icons=true&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=prashantkumarpro&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
     height="160"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkumarpro&hide_border=true&theme=transparent"
+    src="https://streak-stats.demolab.com?user=prashantkumarpro&hide_border=true&background=transparent"
     height="160"
   />
 </p>
 
 ---
 
-## Let's Build
+## Let's Connect
 
-I'm interested in working on **useful products, SaaS ideas, business software, and interesting web applications.**
+Building something interesting?
 
-If you're building something, let's connect.
+**[Portfolio](https://www.pkdev.pro/) · [LinkedIn](https://www.linkedin.com/in/prashant-web-developer/) · [X](https://x.com/Dev_Prashant_K) · [Email](mailto:dev.prashant.kumaar@gmail.com)**
 
-[Portfolio](https://www.pkdev.pro/) · [LinkedIn](https://www.linkedin.com/in/prashant-web-developer/) · [X](https://x.com/Dev_Prashant_K) · [Email](mailto:dev.prashant.kumaar@gmail.com)
+<br>
+
+`Build → Ship → Learn → Repeat`
+
+```
+
+### Why I think this is better
+
+The biggest improvement is **CloudSpaceGo becomes the centerpiece** instead of being buried among four equal projects.
+
+The README now tells a story:
+
+**Who you are → What you're building → Proof of work → Your stack → How you think → What you're learning → GitHub activity → Contact**
+
+And the `Build → Ship → Learn → Repeat` ending gives it a little personality without becoming the typical *"Passionate developer 🚀 | Coffee ☕ | Code 💻"* GitHub README.
+
+One thing I'd also recommend: **don't add more sections just to make the README longer.** The whitespace is part of what makes it look premium.
+```
