@@ -1,10 +1,3 @@
-Yes. If you want **cool**, I would move away from the previous "resume in Markdown" style.
-
-Your README should feel like a **personal product-builder profile**: strong opening, visual sections, projects with clear links, a little personality, but still clean and professional.
-
-I’d use this version:
-
-````md
 # Prashant Kumar
 
 ### Full Stack Developer · Product Builder · SaaS
@@ -117,17 +110,4 @@ Building something interesting?
 
 `Build → Ship → Learn → Repeat`
 
-```
 
-### Why I think this is better
-
-The biggest improvement is **CloudSpaceGo becomes the centerpiece** instead of being buried among four equal projects.
-
-The README now tells a story:
-
-**Who you are → What you're building → Proof of work → Your stack → How you think → What you're learning → GitHub activity → Contact**
-
-And the `Build → Ship → Learn → Repeat` ending gives it a little personality without becoming the typical *"Passionate developer 🚀 | Coffee ☕ | Code 💻"* GitHub README.
-
-One thing I'd also recommend: **don't add more sections just to make the README longer.** The whitespace is part of what makes it look premium.
-```
